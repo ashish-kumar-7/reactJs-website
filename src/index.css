@@ -116,7 +116,7 @@
 
 .contact_div {
     width: 100%;
-    height: 75vh;
+    height: 85vh;
 }
 
 
@@ -130,7 +130,7 @@ footer p {
 
 @media (max-width: 991px) {
     #header {
-        height: 80vh;
+        height: 90vh;
         text-align: center;
     }
 
